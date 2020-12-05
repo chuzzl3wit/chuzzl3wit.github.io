@@ -1,7 +1,7 @@
 ---
 title: "Check out my minecraft mod!"
 date: 2020-12-05T16:12:12Z
-draft: true
+draft: false
 ---
 
 **NAME:** Angry Chickens mod
