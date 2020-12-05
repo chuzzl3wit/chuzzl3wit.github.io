@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James&#39; Test Site</title>
-    <link>http://example.org/</link>
+    <link>https://chuzzl3wit.github.io/</link>
     <description>Recent content on James&#39; Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 14:16:16 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Dec 2020 14:16:16 +0000</lastBuildDate><atom:link href="https://chuzzl3wit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go to my Twitch</title>
-      <link>http://example.org/posts/thing/</link>
+      <link>https://chuzzl3wit.github.io/posts/thing/</link>
       <pubDate>Sat, 05 Dec 2020 14:16:16 +0000</pubDate>
       
-      <guid>http://example.org/posts/thing/</guid>
+      <guid>https://chuzzl3wit.github.io/posts/thing/</guid>
       <description>go to my twitch here.</description>
     </item>
     
     <item>
       <title>Subscribe to My Youtube channel</title>
-      <link>http://example.org/posts/subscribe-to-my-yt/</link>
+      <link>https://chuzzl3wit.github.io/posts/subscribe-to-my-yt/</link>
       <pubDate>Sat, 05 Dec 2020 14:11:10 +0000</pubDate>
       
-      <guid>http://example.org/posts/subscribe-to-my-yt/</guid>
+      <guid>https://chuzzl3wit.github.io/posts/subscribe-to-my-yt/</guid>
       <description>Subscribe to my youtube channel here.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://chuzzl3wit.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 05 Dec 2020 14:04:09 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://chuzzl3wit.github.io/posts/my-first-post/</guid>
       <description>This is James&#39; first post in his test website
 hugo cool</description>
     </item>
